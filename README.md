@@ -4,7 +4,7 @@
 
 These algorithms are for demonstration purposes only. There are many sort implementations in the Go standard library that may have better performance.
 
-For a full list of all algorithms, please see: [DIRECTORY.md](https://github.com/TheAlgorithms/Go/blob/master/DIRECTORY.md)
+For a full list of all algorithms, please see: [DIRECTORY.md](https://github.com/technuxCode/Go-Algorithms/master/DIRECTORY.md)
 
 
 ## Sort Algorithms
