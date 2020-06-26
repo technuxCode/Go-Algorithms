@@ -1,4 +1,4 @@
-# The Algorithms - Go
+# Go
 
 ### Algorithms implemented in Go (for education)
 
